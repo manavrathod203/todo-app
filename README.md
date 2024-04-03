@@ -1,8 +1,21 @@
-# React + Vite
+# To-Do App using React.js
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Checkout the live project at: [todo-app-react03.netlify.app](https://todo-app-react03.netlify.app/)
 
-Currently, two official plugins are available:
+In order to run the project locally on your machine follow the steps mentioned below:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Download project files
+
+Download all the project files in a folder and open that folder in your code editor (VS code).
+
+## Install Node modules
+
+```bash
+npm install
+```
+
+## Run the Project on local server
+```bash
+npm run dev
+```
+
